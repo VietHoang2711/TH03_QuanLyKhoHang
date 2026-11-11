@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản Lý Kho Hàng</string>
+    <string name="login_title">Đăng Nhập Hệ Thống</string>
+    <string name="login_subtitle">Quản lý kho hàng thông minh</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="err_login_empty">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+    <string name="err_login_failed">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="main_title">Kho Hàng</string>
+    <string name="total_products">Tổng sản phẩm</string>
+    <string name="total_value">Tổng giá trị kho</string>
+    <string name="low_stock">Sắp hết hàng (&lt; 5)</string>
+    <string name="btn_add_product">Thêm sản phẩm mới</string>
+    <string name="add_product_title">Thêm Sản Phẩm Mới</string>
+    <string name="product_name">Tên sản phẩm</string>
+    <string name="price">Giá bán (VNĐ)</string>
+    <string name="quantity">Số lượng tồn kho</string>
+    <string name="category">Loại sản phẩm</string>
+    <string name="status_active">Đang kinh doanh</string>
+    <string name="description">Mô tả sản phẩm</string>
+    <string name="btn_save">Lưu sản phẩm</string>
+    <string name="product_detail_title">Chi Tiết Sản Phẩm</string>
+    <string name="btn_add_stock">+1 Nhập thêm</string>
+    <string name="btn_sell_stock">-1 Bán 1</string>
+    <string name="btn_delete">Xóa sản phẩm</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="out_of_stock">Hết hàng</string>
+    <string name="low_stock_warning">⚠️ Sắp hết hàng</string>
+</resources>
